@@ -727,8 +727,6 @@ footer {
     justify-content: space-between;
     flex-wrap: wrap;
     gap: 20px 10px;
-    /*335px = 162.5px pour chaque button (exigé par figma) * 2 + 10px de gap right / left*/
-    max-width: 335px;
     align-self: center;
   }
 
